@@ -1,22 +1,11 @@
-# sv
+# jAeons
+A minimalist tier ranking web application. Built with SvelteKit.
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+It has an edit mode and a presentation mode. Also TOML import/export for loading/saving your tier lists to file.
 
-## Creating a project
+This code has not been thoroughly reviewed yet. It was built with Claude Code.
 
-If you're seeing this, you've probably already done this step. Congrats!
-
-```sh
-# create a new project in the current directory
-npx sv create
-
-# create a new project in my-app
-npx sv create my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+## Running
 
 ```sh
 npm run dev
